@@ -4,7 +4,7 @@ Automates the process of creating specific kitty multi-window sessions, and the 
 
 The project was built to streamline my workflow, mostly being the building and logging aspects, hence the multi-window session launcher may seem a bit lackluster in comparison as it only creates sessions using a predifined layout and with predefined titles.
 
-The scripts are entirely independent and can be used separately.
+The scripts are entirely independent and can be used separately. I would however suggest first using them together to get an idea on how it actually works.
 
 # What It Does
 
